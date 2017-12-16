@@ -1,4 +1,6 @@
-TABLE = {
+var m = require('mithril');
+
+var TABLE = {
   "2": "ء",
   "3": "ع",
   "7": "ح"

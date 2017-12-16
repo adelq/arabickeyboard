@@ -1,0 +1,29 @@
+{
+  "name": "arabickeyboard",
+  "version": "1.0.0",
+  "description": "Arabic keyboard",
+  "main": "main.js",
+  "dependencies": {
+    "mithril": "^1.1.6"
+  },
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^1.1.4",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelq/arabickeyboard.git"
+  },
+  "keywords": [
+    "arabic"
+  ],
+  "author": "Adel Qalieh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/adelq/arabickeyboard/issues"
+  },
+  "homepage": "https://github.com/adelq/arabickeyboard#readme"
+}
